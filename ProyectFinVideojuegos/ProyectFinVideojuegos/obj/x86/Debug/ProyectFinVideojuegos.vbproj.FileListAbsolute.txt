@@ -1,0 +1,16 @@
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\bin\Debug\ProyectFinVideojuegos.exe
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\bin\Debug\ProyectFinVideojuegos.pdb
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\bin\Debug\ProyectFinVideojuegos.xml
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Resources.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.vbproj.GenerateResource.Cache
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.exe
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.xml
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.pdb
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Tienda.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.VerificarSalida.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Inicio_Sesión.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Registro.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Compra.resources
+C:\Users\adminportatil\documents\visual studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Añadir.resources
+C:\Users\adminportatil\Documents\Visual Studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.FacturaFinal.resources
+C:\Users\adminportatil\Documents\Visual Studio 2010\Projects\ProyectFinVideojuegos\ProyectFinVideojuegos\obj\x86\Debug\ProyectFinVideojuegos.Alquiler.resources
